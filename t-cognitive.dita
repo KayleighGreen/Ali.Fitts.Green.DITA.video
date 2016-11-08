@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-cognitive">
+    <title>How to Appeal to your Viewers</title>
+    <shortdesc>Cognitive Design</shortdesc>
+    <taskbody>
+        <context>
+            <p>Design that helps users understand a message.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Explain</b> anything that is not accompanied by actions.</cmd>
+            </step>
+            <step>
+                <cmd><b>Demonstrate</b> any movement within the frame of instruction.</cmd>
+            </step>
+            <step>
+                <cmd><b>Do</b> any movement within the frame of instruction.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

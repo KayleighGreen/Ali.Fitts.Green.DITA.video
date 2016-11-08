@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>How to Make YouTube Videos</title>
+ <topicref href="c-intro.dita"></topicref>
+ <topicref href="t-physical.dita"></topicref>
+ <topicref href="t-cognitive.dita"></topicref>
+ <topicref href="t-affective.dita"></topicref>
+</map>

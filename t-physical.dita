@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-steps">
+    <title>How to Structure a Video</title>
+    <shortdesc>Physical Design</shortdesc>
+    <taskbody>
+        <context>
+            <p>Design that direct users to a message.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Create</b> an introduction.</cmd>
+            </step>
+            <step>
+                <cmd><b>Add</b> steps.</cmd>
+            </step>
+            <step>
+                <cmd><b>Create</b> a definitive conclusion.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

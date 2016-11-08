@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-intro">
+ <title>Introduction</title>
+ <shortdesc>What to expect when you're expecting...to make a video.</shortdesc>
+ <conbody>
+  <p>Hello, former Viners who want to join the YouTubing world!<fig id="youtube_logo">
+    <title>YouTube Logo</title>
+    <image placement="break" href="_images/youtube.png" align="center" id="youtube"
+     height="150" width="200"/>
+   </fig></p>
+  <p>Inside of this handy dandy guide are the steps towards learning the rhetorical skills required to make a successful YouTube video. Before you know it, you will be developing quality online content.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-affective">
+    <title>How to Create Engaging Design</title>
+    <shortdesc>Affective Design</shortdesc>
+    <taskbody>
+        <context>
+            <p>Seduce the viewer in order to create a confident image.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Make</b> a big promise of something to be learned or accomplished.</cmd>
+            </step>
+            <step>
+                <cmd><b>Proceed</b> by making and fulfilling small promises along the way.</cmd>
+            </step>
+            <step>
+                <cmd><b>Make</b> good on the larger promise.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
